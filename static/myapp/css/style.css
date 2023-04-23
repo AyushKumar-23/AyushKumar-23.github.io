@@ -1,18 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
 
 :root {
-    --color-body: #b6cbce;
-    --color-heading: #08fcd9;
-    --color-base: #2a2a2b;
-    --color-base2: #1c1c1d;
-    --color-brand: #189997;
-    --color-brand2: #bbdfda;
-    --navbar-color:linear-gradient(rgba(3, 63, 71, 0.8), rgba(3, 63, 71, 0.8));
-    --sidbar-width: 240px;
-    --font-base: "Bai Jamjuree";
-}
-
-.darkTheme {
     --color-body: #042d65;
     --color-heading: #094299;
     --color-base: #cee2fe;
@@ -20,6 +8,18 @@
     --color-brand: #3c8bfc;
     --color-brand2: #0c6efc;
     --navbar-color:#6ea8fe;
+    --sidbar-width: 240px;
+    --font-base: "Bai Jamjuree";
+}
+
+.darkTheme {
+    --color-body: #b6cbce;
+    --color-heading: #08fcd9;
+    --color-base: #2a2a2b;
+    --color-base2: #1c1c1d;
+    --color-brand: #189997;
+    --color-brand2: #bbdfda;
+    --navbar-color:linear-gradient(rgba(3, 63, 71, 0.8), rgba(3, 63, 71, 0.8));
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
