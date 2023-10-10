@@ -221,7 +221,9 @@ img {
 
 
     }
-
+    .emailChildDiv{
+        margin-left: 25%;
+    }
     /* ACCOUNT ICON */
 
     .account-icon {
